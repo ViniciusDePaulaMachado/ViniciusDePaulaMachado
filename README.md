@@ -1,6 +1,6 @@
 ### <h2>Olá, Meu Nome é Vinicius 👋 
 
-<h3>Atualmente estou estudando programação Java<h3>
+<h3>Atualmente estou estudando C#, unity e dev de jogos digitais<h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusDePaulaMachado&show_icons=true&theme=default)
 #
