@@ -1,10 +1,15 @@
-### <h3>Olá, me chamo Vinicius </h3>
-Atualmente sou desenvolvedor de jogos hobbysta e tenho pretenção de seguir carreira em tempo integral. Meu foco é programação e game designe.
+### <h3>Olá, me chamo Vinicius. </h3>
+Atualmente sou desenvolvedor de jogos hobbysta e tenho pretenção de seguir carreira em tempo integral com foco em programação e game designe.
 
-<h3>Competencias</h3>
-Graduação em jogos digitais e tecnologia por UniCesumar.
+<h4>Competencias</h4>
+Graduação em jogos digitais e tecnologia por UniCesumar;
 
-2 anos de experiencia como gamedev c# e unity.  
+Programação orientada a objetos;
+
+Programador c# unity;
+
+<h4>Experiencias</h4>
+2 anos de experiencia com programação c# e unity;
 
 <h4>Você pode encontar alguns dos meus projetos aqui.</h4>
 
