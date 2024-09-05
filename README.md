@@ -1,4 +1,4 @@
-### <h3>Olá, Meu Nome é Vinicius </h3>
+### <h3>Olá, me chamo Vinicius </h3>
 Atualmente sou desenvolvedor de jogos hobbysta e tenho pretenção de seguir carreira em tempo integral. Meu foco é programação e game designe.
 
 <h3>Competencias</h3>
